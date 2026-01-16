@@ -36,7 +36,7 @@ classifiers = [
 [project.urls]
 Homepage = "https://Paraschamoli.github.io/instagram-post-agent/"
 Repository = "https://github.com/Paraschamoli/instagram-post-agent"
-Documentation = "https://Paraschamoli.github.io/instagram-post-agent/"
+Documentation = "https://github.com/Paraschamoli/instagram-post-agent#readme"
 
 [dependency-groups]
 dev = [

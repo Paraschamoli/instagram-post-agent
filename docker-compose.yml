@@ -2,7 +2,7 @@ services:
   instagram_post_agent:
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: Dockerfile.agent
     container_name: instagram_post_agent
     ports:
       - "3773:3773"
